@@ -7,6 +7,7 @@ The dashboard allows users to analyze stock performance, market trends, volatili
 ## 🚀 Live Demo
 
 https://stock-market-analytics-dashboard-9hdturqgg46f7lblhb6qzb.streamlit.app/
+live here
 
 ## 💻 GitHub Repository
 
